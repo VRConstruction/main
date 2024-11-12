@@ -1,7 +1,7 @@
 {
-  "name": "buildco",
+  "name": "VR Constructions",
   "version": "1.0.0",
-  "description": "BuildCo - Construction Company Website",
+  "description": "VR Constructions - Construction Company Website",
   "main": "index.js",
   "scripts": {
     "watch:sass": "sass sass/main.scss css/style.css -w",
